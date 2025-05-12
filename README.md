@@ -24,4 +24,42 @@
       max-width: 500px;
     }
     h1 {
-      color:
+      color: #0f172a;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #2563eb;
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      font-size: 18px;
+    }
+    li {
+      margin: 8px 0;
+    }
+    p {
+      font-size: 18px;
+      margin: 12px 0;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>EODB TEAM Department</h1>
+    <h2>Team Members:</h2>
+    <ul>
+      <li>👤 Mohit Patel</li>
+      <li>👤 Jignesh Trivedi</li>
+      <li>👤 Priya Darji</li>
+    </ul>
+    <p>📧 Email: <a href="mailto:eodbteamho@gmail.com">eodbteamho@gmail.com</a></p>
+  </div>
+</body>
+</html>
